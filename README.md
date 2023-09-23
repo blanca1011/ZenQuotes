@@ -1,6 +1,6 @@
 # ZenQuotes
 
-#### Video Demo:  [<URL HERE>](https://youtu.be/D_6RODvmiGM)
+#### Video Demo:  [https://youtu.be/D_6RODvmiGM](ZenQuotes)
 
 #### Description: 
 Use Public API ZenQuotes to Generate Quote of The Day
