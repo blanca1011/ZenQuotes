@@ -1,8 +1,8 @@
 # ZenQuotes
 
-#### Video Demo: https://youtu.be/D_6RODvmiGM
+### Video Demo: https://youtu.be/D_6RODvmiGM
 
-#### Description: 
+### Description: 
 Use Public API ZenQuotes to Generate Quote of The Day
 
 ### How To Use?
@@ -11,3 +11,4 @@ Use Public API ZenQuotes to Generate Quote of The Day
 3. Navigate to https://localhost:3000/
 
 ### Example Quote of The Day
+![](/assets/example.png)
